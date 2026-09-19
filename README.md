@@ -9,7 +9,7 @@
   </h1>
 
   <p align="center" style="color: #00ffcc; font-size: 13px; letter-spacing: 2px; margin-top: 15px; text-shadow: 0 0 8px rgba(0,255,204,0.4);">
-    ⚡ POWERED BY WEED-TECH• ULTIMATE EXPERIENCE ⚡
+    ⚡ POWERED BY JOKER-MD• ULTIMATE EXPERIENCE ⚡
   </p>
 
 </div>
@@ -17,7 +17,7 @@
 <div style="background-color: #0d1117; padding: 25px; border-radius: 12px; border: 1px solid #30363d; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 
-🛡•••RIFT-MD is a WhatsApp MD bot built on top of the Baileys library. It is designed to be fast, lightweight, and easy to customize without touching the core code. This project is fully {open source} — you are free to modify it, rebrand it, and create your own bot from this codebase for free, without needing any permission from anyone. All commands such as menu, alive, antilink, play, sticker, and the overall structure are written in a way that makes customization as easy as possible😎.
+🛡•••JOKER-MD is a WhatsApp MD bot built on top of the Baileys library. It is designed to be fast, lightweight, and easy to customize without touching the core code. This project is fully {open source} — you are free to modify it, rebrand it, and create your own bot from this codebase for free, without needing any permission from anyone. All commands such as menu, alive, antilink, play, sticker, and the overall structure are written in a way that makes customization as easy as possible😎.
 
 
 ⭕  DEPLOY ON [ PANEL KATABUMP ]
